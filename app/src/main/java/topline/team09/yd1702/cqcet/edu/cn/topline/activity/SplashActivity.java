@@ -10,6 +10,9 @@ import java.util.TimerTask;
 import topline.team09.yd1702.cqcet.edu.cn.topline.MainActivity;
 import topline.team09.yd1702.cqcet.edu.cn.topline.R;
 
+/**
+ * Created by RedSlodier on 2019/10/23 9:29.
+ */
 public class SplashActivity extends AppCompatActivity {
 
     @Override
